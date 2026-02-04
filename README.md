@@ -36,7 +36,11 @@ Designed as a **training and educational tool**, not a physics-perfect simulator
 
 ## 🖼️ Screenshots
 
-<img width="1915" height="1013" alt="1" src="https://github.com/user-attachments/assets/7af9d5bb-178a-4d9d-a20b-4e6fde29ca03" />
+### Main UI
+![Main UI](screenshots/ui_main.png)
+
+### Easy Mode
+![Easy Mode](screenshots/easy_mode.png)
 
 
 ---
