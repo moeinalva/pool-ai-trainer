@@ -41,7 +41,10 @@ Designed as a **training and educational tool**, not a physics-perfect simulator
 
 ### Easy Mode
 ![Easy Mode](screenshots/easy_mode.png)
+---
+## 🖼 Demo
 
+![Demo](assets/demo.gif)
 
 ---
 
