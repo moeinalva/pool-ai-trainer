@@ -44,7 +44,7 @@ Designed as a **training and educational tool**, not a physics-perfect simulator
 ---
 ## 🖼 Demo
 
-![Demo](assets/demo.gif)
+![Demo](asset/demo.gif)
 
 ---
 
